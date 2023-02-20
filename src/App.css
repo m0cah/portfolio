@@ -3,7 +3,7 @@
     align-items: center;
     justify-content: flex-end;
     list-style: none;
-    width: 90%;
+    width: 95%;
     gap: 50px;
 }
 
@@ -15,6 +15,7 @@
             flex-direction: column;
             align-items: end;
             gap: 10px;
+            width: 85%;
        } 
 
        .burger{

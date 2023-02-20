@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e60f4e6.css",
+    "main.js": "/static/js/main.c25a43ed.js",
+    "static/media/realpic.png": "/static/media/realpic.14cc0b70dfaa00d5942f.png",
+    "static/media/cl.png": "/static/media/cl.ec57dd6e99d2eeb3e673.png",
+    "static/media/pathfinding.png": "/static/media/pathfinding.94bccee283e4bc1776a9.png",
+    "static/media/python-icon.png": "/static/media/python-icon.6a5cbc319ab3ddf8ef92.png",
+    "static/media/react.js-icon.png": "/static/media/react.js-icon.ac9979693620f0a96231.png",
+    "static/media/c-icon.png": "/static/media/c-icon.ca323b325816f40cf155.png",
+    "static/media/java-icon.png": "/static/media/java-icon.ddf8676bd569fe01ab44.png",
+    "static/media/twitterscraper.png": "/static/media/twitterscraper.c435a72e0d687b8d6c38.png",
+    "static/media/bitmoji.png": "/static/media/bitmoji.d77caa75f9ae67cc85c7.png",
+    "static/media/github.png": "/static/media/github.e6d9d727e8d1acf8103c.png",
+    "static/media/linkedin.jpeg": "/static/media/linkedin.33e82043947d645200ee.jpeg",
+    "static/media/css-icon.png": "/static/media/css-icon.463e319bad8e0edf1ef7.png",
+    "static/media/html-icon.png": "/static/media/html-icon.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/js-icon.png": "/static/media/js-icon.3dfb665e058d08c99f28.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.2193370a3eb443ad4f2a.png",
+    "static/media/icon.jpeg": "/static/media/icon.738cc1460a352dda67f3.jpeg",
+    "index.html": "/index.html",
+    "main.9e60f4e6.css.map": "/static/css/main.9e60f4e6.css.map",
+    "main.c25a43ed.js.map": "/static/js/main.c25a43ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e60f4e6.css",
+    "static/js/main.c25a43ed.js"
+  ]
+}

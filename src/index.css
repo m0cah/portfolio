@@ -1,18 +1,12 @@
 html{
   background-color: #2a2727;
   color:aliceblue;
-  padding: 0;
-  margin: 0;
 }
 
 body {
   font-family: 'Courier Prime', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-html, body{
-    overflow-x: hidden;
 }
 
 code {

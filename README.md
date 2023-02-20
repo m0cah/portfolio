@@ -1,2 +1,2 @@
-# portfolio
-Minimalistic Web Portfolio Using:
+#Portfolio
+Minimalistic Web Portfolio for Michael Neal
